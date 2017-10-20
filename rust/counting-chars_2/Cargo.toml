@@ -1,0 +1,6 @@
+[package]
+name = "counting-chars_2"
+version = "0.1.0"
+authors = ["Simon Egersand <s.egersand@gmail.com>"]
+
+[dependencies]
