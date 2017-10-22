@@ -1,0 +1,6 @@
+[package]
+name = "numbers-to-names_21"
+version = "0.1.0"
+authors = ["Simon Egersand <s.egersand@gmail.com>"]
+
+[dependencies]
